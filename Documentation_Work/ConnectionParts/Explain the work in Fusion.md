@@ -23,3 +23,6 @@ Utilizing 4040 Aluminum Profile T-Slot Nut M5 Half Round Spring T nuts for this 
 <img src="../ConnectionParts/images/Fusion10.jpg"  width= "100%"> Extrude the rengle and use the "Cut" function of the extrusion. | <img src="../ConnectionParts/images/Fusion11.jpg"  width="100%"  >Then extrude the ring face to create smaller hole for the bolt ( do not forget the "Joint" Function)
 13       |14
 <img src="../ConnectionParts/images/Fusion12.jpg"  width= "100%"> Extrude the rengle and use the "Cut" function of the extrusion. | <img src="../ConnectionParts/images/Fusion13.jpg"  width="100%"  > Last step for the 3D printing is to export the part as an .stl so you can import it into a slicer software. 
+
+
+LOL TEST
