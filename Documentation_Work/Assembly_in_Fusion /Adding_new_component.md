@@ -12,7 +12,7 @@ For instance, let's explore how to add a new component onto Chelonia's aluminum 
 
 # Intermediate result
 Now, let's make only the new component and its system of coordinates visible.
-<img src="../Assembly_in_Fusion /Images/RightSocC.jpg"  width= "100%">
+<img src="../Assembly_in_Fusion /Images/RightSocC.png"  width= "100%">
 The outcome is that the SoC of the new component aligns with the global System of Coordinates of the entire assembly. However, this approach presents several drawbacks:
 
 <ul>
