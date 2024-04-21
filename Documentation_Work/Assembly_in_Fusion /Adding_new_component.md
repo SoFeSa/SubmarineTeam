@@ -23,11 +23,12 @@ Useful tipp 1             |Useful tipp 2
 :-:|:-:
 <img src="../Assembly_in_Fusion /Images/Visibility.jpg"  width= "100%"> Visibility of a body/sketch/origin/component/etc is controlled by the "eye" button | <img src="../Assembly_in_Fusion /Images/Transp.jpg"  width= "100%">  Clicking "Active" on the root element will turn off the transparency of other components.
 
+Before making any sketches:
+
+<img src="../Assembly_in_Fusion /Images/RightSoC.jpg"  width= "100%"> After labeling a new component and pressing "OK", align the new SoC by means of the tool "Joint" 
 
 
-7         |8
-<img src="../ConnectionParts/images/Fusion6.jpg"  width= "100%"> Now we want to remove the small edges created by the extrusion. Start a sketch on the plane of the connecting part.  | <img src="../ConnectionParts/images/Fusion7.jpg"  width="100%"  > Create a simple line.
-9        |10
+
 <img src="../ConnectionParts/images/Fusion8.jpg"  width= "100%"> Finish the sketch and Go to "Offset Plane" and create a "Plane at Angle" click on the line and have a look if the create plane is parallen to the x-y-plane of the connecting part. If not, adjust the angle  | <img src="../ConnectionParts/images/Fusion9.jpg"  width="100%"  > Create a sketch on this plane and create a simple rectangle were one edge is dirctly on the face of the connecting part.
 11        |12
 <img src="../ConnectionParts/images/Fusion10.jpg"  width= "100%"> Extrude the rengle and use the "Cut" function of the extrusion. | <img src="../ConnectionParts/images/Fusion11.jpg"  width="100%"  >Then extrude the ring face to create smaller hole for the bolt ( do not forget the "Joint" Function)
