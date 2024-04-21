@@ -6,9 +6,24 @@ For instance, let's explore how to add a new component onto Chelonia's aluminum 
 :-:|:-:
 <img src="../Assembly_in_Fusion /Images/AddExis.jpg"  width= "100%"> Open the cloud -> right click -> Insert into current design.<br>Allign if needed. | <img src="../Assembly_in_Fusion /Images/NewExtrusion.jpg"  width= "100%">  With the extrude tool click on any Surface.<br>By selecting "Object" in Start parametr an arbitrary plane or surface might be chosen.
 3           |4
-<img src="../ConnectionParts/images/Fusion2.jpg"  width= "100%"> Click on the upper surface inside  the part with the hole were the nut will be inserted. Go  with right click to "Create a new Sketch"  | <img src="../ConnectionParts/images/Fusion3.jpg"  width="100%"  > To make the whole body of hte connecting part invisible and just see the line of the surface, Go To " "Create" and click on "Project/Insert" and choose the surface.
+<img src="../Assembly_in_Fusion /Images/AddExis.jpg"  width= "100%"> Assemble -> New component.<br> a new component should be visible in the construction tree. | <img src="../Assembly_in_Fusion /Images/AddExis.jpg"  width= "100%"> After selecting ZY plane the sketch to be extruded is finshed.
+
+now let's make visible only new component and its system of coordinates.
+![image](<img src="../Assembly_in_Fusion /Images/WrongSoC.jpg"  width= "100%">)
+The outcome is that the SoC of the new component aligns with the global System of Coordinates of the entire assembly. However, this approach presents several drawbacks:
+
+<ul>
+  <li>It becomes less convenient to directly work with CAD/CAM/CAE tools on the individual part itself.</li>
+  <li>The planes of symmetry of the component are affected.</li>
+</ul>
+Consequently, each time the file of this component is opened, numerous issues arise, such as aligning its SoC, which may not correlate with the geometry of the component, as it is defined by the SoC of the initial assembly.
+
+Tipps:
 5          |6
-<img src="../ConnectionParts/images/Fusion4.jpg"  width= "100%"> Create three lines and use the measurements taken from the new nut used (I used a tolerance of 0.5 mm on each side). Make sure the contrains are right (parrallel lines).  | <img src="../ConnectionParts/images/Fusion5.jpg"  width="100%"  > Finish the sketch and got to "Extrude", then click on the surface area created by the 3 lines and extrude it with the "Joint" function (see window on the right side)
+<img src="../Assembly_in_Fusion /Images/Visibility.jpg"  width= "100%"> Visibility of a body/sketch/origin/component/etc is controlled by the "eye" button | <img src="../Assembly_in_Fusion /Images/Transp.jpg"  width= "100%">  Clicking "Active" on the root element will turn off the transparency of other components.
+
+
+
 7         |8
 <img src="../ConnectionParts/images/Fusion6.jpg"  width= "100%"> Now we want to remove the small edges created by the extrusion. Start a sketch on the plane of the connecting part.  | <img src="../ConnectionParts/images/Fusion7.jpg"  width="100%"  > Create a simple line.
 9        |10
