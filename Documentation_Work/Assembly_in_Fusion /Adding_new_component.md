@@ -1,4 +1,4 @@
-# Changes to be done 
+# How to make a new component
 To start with Assembly, the first thing to do is introduce a new component. Although it might seem simple, there's an important initial step before diving into sketch creation<BR> <b>ASSIGN A NEW SYSTEM OF COORDINATES!</b>
 
 For instance, let's explore how to add a new component onto Chelonia's aluminum extrusion.
@@ -6,9 +6,12 @@ For instance, let's explore how to add a new component onto Chelonia's aluminum 
 :-:|:-:
 <img src="../Assembly_in_Fusion /Images/AddExis.jpg"  width= "100%"> Open the cloud -> right click -> Insert into current design.<br>Allign if needed. | <img src="../Assembly_in_Fusion /Images/NewExtrusion.jpg"  width= "100%">  With the extrude tool click on any Surface.<br>By selecting "Object" in Start parametr an arbitrary plane or surface might be chosen.
 3           |4
-<img src="../Assembly_in_Fusion /Images/1SoC.jpg"  width= "100%"> Assemble -> New component.<br> a new component should be visible in the construction tree. | <img src="../Assembly_in_Fusion /Images/1Sketch.jpg"  width= "100%"> After selecting ZY plane the sketch to be extruded is finshed.
+<img src="../Assembly_in_Fusion /Images/1SoC.jpg"  width= "100%"> Assemble -> New component.<br> A new component should be visible in the construction tree. | <img src="../Assembly_in_Fusion /Images/1Sketch.jpg"  width= "100%"> After selecting ZY plane,the sketch to be extruded is finshed.
 
-now let's make visible only new component and its system of coordinates.
+
+
+
+Now, let's make only the new component and its system of coordinates visible.
 <img src="../Assembly_in_Fusion /Images/WrongSoC.jpg"  width= "100%">
 The outcome is that the SoC of the new component aligns with the global System of Coordinates of the entire assembly. However, this approach presents several drawbacks:
 
@@ -27,12 +30,14 @@ Before creating any sketches, and after labeling a new component and pressing "O
 
 <img src="../Assembly_in_Fusion /Images/RightSoC.jpg"  width= "100%"> The origin of the new componen. The origin of the root element is also hidden.
 
+<b>Tool <a href="https://www.youtube.com/watch?v=Bw08O6XsfDI&t=300s&ab_channel=NYCCNC">JOINT</a></b> (or similar videos on youtube)
+
 
 RIGHT             |WRONG
 :-:|:-:
-<img src="../Assembly_in_Fusion /Images/WrongSoc.png"  width= "100%"> Origin alligns with geometry | <img src="../Assembly_in_Fusion /Images/RightSoC.png"  width="100%"  >Origin does not alligns with geometry
+<img src="../Assembly_in_Fusion /Images/WrongSoc.png"  width= "100%"> Origin alligns with geometry | <img src="../Assembly_in_Fusion /Images/RightSoC.png"  width="100%"  >Origin does not aligns with geometry
 RIGHT             |WRONG
 <img src="../Assembly_in_Fusion /Images/RightAS.png"  width= "100%"> 2 components - 2 different origins | <img src="../Assembly_in_Fusion /Images/WrongAS.png"  width="100%"  > Both origins at the same positioin.
 
 
-LOL TEST
+What's the difference between new body and new component?
