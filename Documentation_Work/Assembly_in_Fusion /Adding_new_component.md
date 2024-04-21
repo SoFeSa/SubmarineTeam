@@ -9,7 +9,7 @@ For instance, let's explore how to add a new component onto Chelonia's aluminum 
 <img src="../Assembly_in_Fusion /Images/1SoC.jpg"  width= "100%"> Assemble -> New component.<br> a new component should be visible in the construction tree. | <img src="../Assembly_in_Fusion /Images/1Sketch.jpg"  width= "100%"> After selecting ZY plane the sketch to be extruded is finshed.
 
 now let's make visible only new component and its system of coordinates.
-![image](<img src="../Assembly_in_Fusion /Images/WrongSoC.jpg"  width= "100%">)
+<img src="../Assembly_in_Fusion/Images/WrongSoC.jpg" width="100%">
 The outcome is that the SoC of the new component aligns with the global System of Coordinates of the entire assembly. However, this approach presents several drawbacks:
 
 <ul>
