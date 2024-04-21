@@ -1,10 +1,10 @@
 # Changes to be done 
-The first step in Assembly is adding a new component.Eventhough it doesnt look complecated, one very import step before starting creating a sketch must be complited. ASSIGN NEW SYSTEM OF COORDINATE!
+To start with Assembly, the first thing to do is introduce a new component. Although it might seem simple, there's an important initial step before diving into sketch creation<BR> <b>ASSIGN A NEW SYSTEM OF COORDINATES!</b>
 
-For example lets take a look at adding a new component on a piece of Chelonia's aluminum extrusion:
+For instance, let's explore how to add a new component onto Chelonia's aluminum extrusion.
 1             |2
 :-:|:-:
-<img src="../Assembly_in_Fusion /Images/AddExis.jpg"  width= "100%"> Open the cloud -> right click -> Insert into current design.<br>Allign if needed. | <img src="../ConnectionParts/images/Fusion1a.jpg"  width="100%"  > Open it as a project (go to "File" and "Open") on your personal Fusion account.
+<img src="../Assembly_in_Fusion /Images/AddExis.jpg"  width= "100%"> Open the cloud -> right click -> Insert into current design.<br>Allign if needed. | <img src="../Assembly_in_Fusion /Images/NewExtrusion.jpg"  width= "100%">  With the extrude tool click on any Surface.<br>By selecting "Object" in Start parametr an arbitrary plane or surface might be chosen.
 3           |4
 <img src="../ConnectionParts/images/Fusion2.jpg"  width= "100%"> Click on the upper surface inside  the part with the hole were the nut will be inserted. Go  with right click to "Create a new Sketch"  | <img src="../ConnectionParts/images/Fusion3.jpg"  width="100%"  > To make the whole body of hte connecting part invisible and just see the line of the surface, Go To " "Create" and click on "Project/Insert" and choose the surface.
 5          |6
