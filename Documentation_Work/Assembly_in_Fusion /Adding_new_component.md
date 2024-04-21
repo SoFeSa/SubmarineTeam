@@ -12,7 +12,7 @@ For instance, let's explore how to add a new component onto Chelonia's aluminum 
 
 # Intermediate result
 Now, let's make only the new component and its system of coordinates visible.
-<img src="../Assembly_in_Fusion /Images/WrongSoC.jpg"  width= "100%">
+<img src="../Assembly_in_Fusion /Images/RightSocC.jpg"  width= "100%">
 The outcome is that the SoC of the new component aligns with the global System of Coordinates of the entire assembly. However, this approach presents several drawbacks:
 
 <ul>
@@ -29,7 +29,7 @@ Useful tipp 1             |Useful tipp 2
 # Right approach
 Before creating any sketches, and after labeling a new component and pressing "OK," align the new SoC using the "Joint" tool.
 
-<img src="../Assembly_in_Fusion /Images/RightSoC.jpg"  width= "100%"> The origin of the new componen. The origin of the root element is also hidden.
+<img src="../Assembly_in_Fusion /Images/RightSoC.jpg"  width= "100%"> The origin of the new component. The origin of the root element is also hidden.
 
 <b>Tool <a href="https://www.youtube.com/watch?v=Bw08O6XsfDI&t=300s&ab_channel=NYCCNC">JOINT</a></b> (or similar videos on youtube)
 
