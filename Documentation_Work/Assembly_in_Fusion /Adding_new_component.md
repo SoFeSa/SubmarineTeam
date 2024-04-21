@@ -31,9 +31,9 @@ Before creating any sketches, and after labeling a new component and pressing "O
 RIGHT             |WRONG
 :-:|:-:
 
-<img src="../Assembly_in_Fusion /Images/RightSoC.jpg"  width= "100%">  | <img src="../Assembly_in_Fusion /Images/WrongSoC.jpg"  width="100%"  >Then extrude the ring face to create smaller hole for the bolt ( do not forget the "Joint" Function)
+<img src="../Assembly_in_Fusion /Images/RightSoC.png"  width= "100%">  | <img src="../Assembly_in_Fusion /Images/WrongSoC.png"  width="100%"  >Then extrude the ring face to create smaller hole for the bolt ( do not forget the "Joint" Function)
 RIGHT             |WRONG
-<img src="../Assembly_in_Fusion /Images/RightAS.jpg"  width= "100%"> 2 components - 2 different origins | <img src="../Assembly_in_Fusion /Images/Fusion13.jpg"  width="100%"  > Both origins at the same positioin.
+<img src="../Assembly_in_Fusion /Images/RightAS.png"  width= "100%"> 2 components - 2 different origins | <img src="../Assembly_in_Fusion /Images/Fusion13.png"  width="100%"  > Both origins at the same positioin.
 
 
 LOL TEST
