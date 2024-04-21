@@ -26,13 +26,13 @@ Useful tipp 1             |Useful tipp 2
 :-:|:-:
 <img src="../Assembly_in_Fusion /Images/Visibility.jpg"  width= "100%"> Visibility of a body/sketch/origin/component/etc is controlled by the "eye" button | <img src="../Assembly_in_Fusion /Images/Transp.jpg"  width= "100%">  Clicking "Active" on the root element will turn off the transparency of other components.
 
+# Right approach
 Before creating any sketches, and after labeling a new component and pressing "OK," align the new SoC using the "Joint" tool.
 
 <img src="../Assembly_in_Fusion /Images/RightSoC.jpg"  width= "100%"> The origin of the new componen. The origin of the root element is also hidden.
 
 <b>Tool <a href="https://www.youtube.com/watch?v=Bw08O6XsfDI&t=300s&ab_channel=NYCCNC">JOINT</a></b> (or similar videos on youtube)
 
-# Right approach
 RIGHT             |WRONG
 :-:|:-:
 <img src="../Assembly_in_Fusion /Images/WrongSoc.png"  width= "100%"> Origin alligns with geometry | <img src="../Assembly_in_Fusion /Images/RightSoC.png"  width="100%"  >Origin does not aligns with geometry
