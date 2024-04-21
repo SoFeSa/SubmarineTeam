@@ -4,7 +4,7 @@ To start with Assembly, the first thing to do is introduce a new component. Alth
 For instance, let's explore how to add a new component onto Chelonia's aluminum extrusion.
 1             |2
 :-:|:-:
-<img src="../Assembly_in_Fusion /Images/AddExis.jpg"  width= "100%"> Open the cloud -> right click -> Insert into current design.<br>Allign if needed. | <img src="../Assembly_in_Fusion /Images/NewExtrusion.jpg"  width= "100%">  With the extrude tool click on any Surface.<br>By selecting "Object" in Start parametr an arbitrary plane or surface might be chosen.
+<img src="../Assembly_in_Fusion /Images/AddExis.jpg"  width= "100%"> Open the cloud -> right click -> Insert into current design.<br>Align if needed. | <img src="../Assembly_in_Fusion /Images/NewExtrusion.jpg"  width= "100%">  With the extrude tool click on any Surface.<br>By selecting "Object" in Start parametr an arbitrary plane or surface might be chosen.
 3           |4
 <img src="../Assembly_in_Fusion /Images/1SoC.jpg"  width= "100%"> Assemble -> New component.<br> A new component should be visible in the construction tree. | <img src="../Assembly_in_Fusion /Images/1Sketch.jpg"  width= "100%"> After selecting ZY plane,the sketch to be extruded is finshed.
 
@@ -35,7 +35,7 @@ Before creating any sketches, and after labeling a new component and pressing "O
 
 RIGHT             |WRONG
 :-:|:-:
-<img src="../Assembly_in_Fusion /Images/WrongSoc.png"  width= "100%"> Origin alligns with geometry | <img src="../Assembly_in_Fusion /Images/RightSoC.png"  width="100%"  >Origin does not align with geometry
+<img src="../Assembly_in_Fusion /Images/WrongSoc.png"  width= "100%"> Origin aligns with geometry | <img src="../Assembly_in_Fusion /Images/RightSoC.png"  width="100%"  >Origin does not align with geometry
 RIGHT             |WRONG
 <img src="../Assembly_in_Fusion /Images/RightAS.png"  width= "100%"> 2 components - 2 different origins | <img src="../Assembly_in_Fusion /Images/WrongAS.png"  width="100%"  > Both origins at the same positioin.
 
