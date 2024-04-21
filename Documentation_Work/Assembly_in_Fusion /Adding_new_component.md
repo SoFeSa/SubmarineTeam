@@ -29,7 +29,7 @@ Useful tipp 1             |Useful tipp 2
 # Right approach
 Before creating any sketches, and after labeling a new component and pressing "OK," align the new SoC using the "Joint" tool.
 
-<img src="../Assembly_in_Fusion /Images/RightSoC.jpg"  width= "100%"> The origin of the new component. The origin of the root element is also hidden.
+<img src="../Assembly_in_Fusion /Images/RightSoC.jpg"  width= "100%"> The origin of the new component. The origin of the root element is hidden.
 
 <b>Tool <a href="https://www.youtube.com/watch?v=Bw08O6XsfDI&t=300s&ab_channel=NYCCNC">JOINT</a></b> (or similar videos on youtube)
 
