@@ -4,7 +4,7 @@ The first step in Assembly is adding a new component.Eventhough it doesnt look c
 For example lets take a look at adding a new component on a piece of Chelonia's aluminum extrusion:
 1             |2
 :-:|:-:
-<img src="../Assembly_in_Fusion /Images/AddExis.jpg"  width= "100%"> Open the cloud -> right click -> Insert into current design./n Allign if needed. | <img src="../ConnectionParts/images/Fusion1a.jpg"  width="100%"  > Open it as a project (go to "File" and "Open") on your personal Fusion account.
+<img src="../Assembly_in_Fusion /Images/AddExis.jpg"  width= "100%"> Open the cloud -> right click -> Insert into current design.\n Allign if needed. | <img src="../ConnectionParts/images/Fusion1a.jpg"  width="100%"  > Open it as a project (go to "File" and "Open") on your personal Fusion account.
 3           |4
 <img src="../ConnectionParts/images/Fusion2.jpg"  width= "100%"> Click on the upper surface inside  the part with the hole were the nut will be inserted. Go  with right click to "Create a new Sketch"  | <img src="../ConnectionParts/images/Fusion3.jpg"  width="100%"  > To make the whole body of hte connecting part invisible and just see the line of the surface, Go To " "Create" and click on "Project/Insert" and choose the surface.
 5          |6
