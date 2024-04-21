@@ -20,7 +20,7 @@ Consequently, each time the file of this component is opened, numerous issues ar
 
 Tipps:
 :-:|:-:
-5          |6
+1          |2
 <img src="../Assembly_in_Fusion /Images/Visibility.jpg"  width= "100%"> Visibility of a body/sketch/origin/component/etc is controlled by the "eye" button | <img src="../Assembly_in_Fusion /Images/Transp.jpg"  width= "100%">  Clicking "Active" on the root element will turn off the transparency of other components.
 
 
