@@ -10,7 +10,7 @@ For instance, let's explore how to add a new component onto Chelonia's aluminum 
 
 
 
-
+# Intermediate result
 Now, let's make only the new component and its system of coordinates visible.
 <img src="../Assembly_in_Fusion /Images/WrongSoC.jpg"  width= "100%">
 The outcome is that the SoC of the new component aligns with the global System of Coordinates of the entire assembly. However, this approach presents several drawbacks:
@@ -21,7 +21,7 @@ The outcome is that the SoC of the new component aligns with the global System o
 </ul>
 Consequently, each time the file of this component is opened, numerous issues arise, such as aligning its SoC, which may not correlate with the geometry of the component, as it is defined by the SoC of the initial assembly.
 
-Tipps:
+# Tipps
 Useful tipp 1             |Useful tipp 2
 :-:|:-:
 <img src="../Assembly_in_Fusion /Images/Visibility.jpg"  width= "100%"> Visibility of a body/sketch/origin/component/etc is controlled by the "eye" button | <img src="../Assembly_in_Fusion /Images/Transp.jpg"  width= "100%">  Clicking "Active" on the root element will turn off the transparency of other components.
@@ -32,7 +32,7 @@ Before creating any sketches, and after labeling a new component and pressing "O
 
 <b>Tool <a href="https://www.youtube.com/watch?v=Bw08O6XsfDI&t=300s&ab_channel=NYCCNC">JOINT</a></b> (or similar videos on youtube)
 
-
+# Right approach
 RIGHT             |WRONG
 :-:|:-:
 <img src="../Assembly_in_Fusion /Images/WrongSoc.png"  width= "100%"> Origin alligns with geometry | <img src="../Assembly_in_Fusion /Images/RightSoC.png"  width="100%"  >Origin does not aligns with geometry
