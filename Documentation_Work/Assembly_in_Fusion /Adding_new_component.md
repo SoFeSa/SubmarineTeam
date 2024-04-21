@@ -9,7 +9,7 @@ For instance, let's explore how to add a new component onto Chelonia's aluminum 
 <img src="../Assembly_in_Fusion /Images/1SoC.jpg"  width= "100%"> Assemble -> New component.<br> a new component should be visible in the construction tree. | <img src="../Assembly_in_Fusion /Images/1Sketch.jpg"  width= "100%"> After selecting ZY plane the sketch to be extruded is finshed.
 
 now let's make visible only new component and its system of coordinates.
-<img src="../Assembly_in_Fusion /Images/WrongSoC.jpg"  width= "50%">
+<img src="../Assembly_in_Fusion /Images/WrongSoC.jpg"  width= "100%">
 The outcome is that the SoC of the new component aligns with the global System of Coordinates of the entire assembly. However, this approach presents several drawbacks:
 
 <ul>
@@ -30,9 +30,9 @@ Before creating any sketches, and after labeling a new component and pressing "O
 
 RIGHT             |WRONG
 :-:|:-:
-<img src="../Assembly_in_Fusion /Images/RightSoC.png"  width= "100%">  | <img src="../Assembly_in_Fusion /Images/WrongSoc.png"  width="100%"  >Then extrude the ring face to create smaller hole for the bolt ( do not forget the "Joint" Function)
+<img src="../Assembly_in_Fusion /Images/WrongSoC.png"  width= "100%"> Origin alligns with geometry | <img src="../Assembly_in_Fusion /Images/RightSoc.png"  width="100%"  >Origin does not alligns with geometry
 RIGHT             |WRONG
-<img src="../Assembly_in_Fusion /Images/RightAS.png"  width= "100%"> 2 components - 2 different origins | <img src="../Assembly_in_Fusion /Images/Fusion13.png"  width="100%"  > Both origins at the same positioin.
+<img src="../Assembly_in_Fusion /Images/RightAS.png"  width= "100%"> 2 components - 2 different origins | <img src="../Assembly_in_Fusion /Images/WrongAS.png"  width="100%"  > Both origins at the same positioin.
 
 
 LOL TEST
