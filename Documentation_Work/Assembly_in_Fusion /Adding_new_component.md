@@ -25,15 +25,15 @@ Useful tipp 1             |Useful tipp 2
 
 Before creating any sketches, and after labeling a new component and pressing "OK," align the new SoC using the "Joint" tool.
 
-<img src="../Assembly_in_Fusion /Images/RightSoC.jpg"  width= "100%"> After labeling a new component and pressing "OK", align the new SoC by means of the tool "Joint" 
+<img src="../Assembly_in_Fusion /Images/RightSoC.jpg"  width= "100%"> The origin of the new componen. The origin of the root element is also hidden.
 
 
+RIGHT             |WRONG
+:-:|:-:
 
-<img src="../ConnectionParts/images/Fusion8.jpg"  width= "100%"> Finish the sketch and Go to "Offset Plane" and create a "Plane at Angle" click on the line and have a look if the create plane is parallen to the x-y-plane of the connecting part. If not, adjust the angle  | <img src="../ConnectionParts/images/Fusion9.jpg"  width="100%"  > Create a sketch on this plane and create a simple rectangle were one edge is dirctly on the face of the connecting part.
-11        |12
-<img src="../ConnectionParts/images/Fusion10.jpg"  width= "100%"> Extrude the rengle and use the "Cut" function of the extrusion. | <img src="../ConnectionParts/images/Fusion11.jpg"  width="100%"  >Then extrude the ring face to create smaller hole for the bolt ( do not forget the "Joint" Function)
-13       |14
-<img src="../ConnectionParts/images/Fusion12.jpg"  width= "100%"> Extrude the rengle and use the "Cut" function of the extrusion. | <img src="../ConnectionParts/images/Fusion13.jpg"  width="100%"  > Last step for the 3D printing is to export the part as an .stl so you can import it into a slicer software. 
+<img src="../Assembly_in_Fusion /Images/RightSoC.jpg"  width= "100%">  | <img src="../Assembly_in_Fusion /Images/WrongSoC.jpg"  width="100%"  >Then extrude the ring face to create smaller hole for the bolt ( do not forget the "Joint" Function)
+RIGHT             |WRONG
+<img src="../Assembly_in_Fusion /Images/RightAS.jpg"  width= "100%"> 2 components - 2 different origins | <img src="../Assembly_in_Fusion /Images/Fusion13.jpg"  width="100%"  > Both origins at the same positioin.
 
 
 LOL TEST
