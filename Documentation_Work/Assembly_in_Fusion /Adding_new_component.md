@@ -21,8 +21,8 @@ The outcome is that the SoC of the new component aligns with the global System o
 </ul>
 Consequently, each time the file of this component is opened, numerous issues arise, such as aligning its SoC, which may not correlate with the geometry of the component, as it is defined by the SoC of the initial assembly.
 
-# Tipps
-Useful tipp 1             |Useful tipp 2
+# Tips
+Useful tip 1             |Useful tip 2
 :-:|:-:
 <img src="../Assembly_in_Fusion /Images/Visibility.jpg"  width= "100%"> Visibility of a body/sketch/origin/component/etc is controlled by the "eye" button | <img src="../Assembly_in_Fusion /Images/Transp.jpg"  width= "100%">  Clicking "Active" on the root element will turn off the transparency of other components.
 
