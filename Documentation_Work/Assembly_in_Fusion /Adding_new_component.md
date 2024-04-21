@@ -9,7 +9,7 @@ For instance, let's explore how to add a new component onto Chelonia's aluminum 
 <img src="../Assembly_in_Fusion /Images/1SoC.jpg"  width= "100%"> Assemble -> New component.<br> a new component should be visible in the construction tree. | <img src="../Assembly_in_Fusion /Images/1Sketch.jpg"  width= "100%"> After selecting ZY plane the sketch to be extruded is finshed.
 
 now let's make visible only new component and its system of coordinates.
-![image](../Assembly_in_Fusion/Images/WrongSoC.jpg)
+<img src="../Assembly_in_Fusion /Images/WrongSoC.jpg"  width= "100%">
 The outcome is that the SoC of the new component aligns with the global System of Coordinates of the entire assembly. However, this approach presents several drawbacks:
 
 <ul>
@@ -23,7 +23,7 @@ Useful tipp 1             |Useful tipp 2
 :-:|:-:
 <img src="../Assembly_in_Fusion /Images/Visibility.jpg"  width= "100%"> Visibility of a body/sketch/origin/component/etc is controlled by the "eye" button | <img src="../Assembly_in_Fusion /Images/Transp.jpg"  width= "100%">  Clicking "Active" on the root element will turn off the transparency of other components.
 
-Before making any sketches:
+Before creating any sketches, and after labeling a new component and pressing "OK," align the new SoC using the "Joint" tool.
 
 <img src="../Assembly_in_Fusion /Images/RightSoC.jpg"  width= "100%"> After labeling a new component and pressing "OK", align the new SoC by means of the tool "Joint" 
 
